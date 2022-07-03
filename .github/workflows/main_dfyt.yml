@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'dfyt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8570D329EDCE43419FD3E4371A0FE080 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C98139AEF44F4271BF900F7E35931488 }}
           package: .
